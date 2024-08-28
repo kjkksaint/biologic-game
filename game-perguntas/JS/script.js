@@ -1,28 +1,28 @@
 const questions = [
     {
-        question: "Qual é a célula fundamental da vida?",
-        options: ["Célula eucariótica", "Célula procariótica", "Célula epitelial", "Célula nervosa"],
-        answer: "Célula eucariótica"
+        question: "Qual é a principal função dos defensivos agrícolas?",
+        options: ["Controlar pragas", "Aumentar o crescimento das plantas", "Melhorar a qualidade do solo", "Promover a polinização"],
+        answer: "Controlar pragas"
     },
     {
-        question: "Qual organelo é conhecido como o 'centro de energia' da célula?",
-        options: ["Núcleo", "Mitocôndria", "Ribossomo", "Lisossomo"],
-        answer: "Mitocôndria"
+        question: "Qual é o tipo de defensivo agrícola utilizado para controlar ervas daninhas?",
+        options: ["Inseticida", "Herbicida", "Fungicida", "Rodenticida"],
+        answer: "Herbicida"
     },
     {
-        question: "Qual é o processo pelo qual as plantas produzem seu alimento?",
-        options: ["Respiração celular", "Fermentação", "Fotossíntese", "Digestão"],
-        answer: "Fotossíntese"
+        question: "Qual é um dos principais riscos associados ao uso excessivo de defensivos agrícolas?",
+        options: ["Diminuição da produtividade", "Resistência de pragas", "Aumento da fotossíntese", "Melhora da qualidade do ar"],
+        answer: "Resistência de pragas"
     },
     {
-        question: "Qual é o maior órgão do corpo humano?",
-        options: ["Coração", "Pulmão", "Fígado", "Pele"],
-        answer: "Pele"
+        question: "Qual medida é recomendada para minimizar os impactos ambientais dos defensivos agrícolas?",
+        options: ["Aplicação indiscriminada", "Uso de EPI", "Uso controlado e conforme as instruções", "Aplicação em dias chuvosos"],
+        answer: "Uso controlado e conforme as instruções"
     },
     {
-        question: "Qual tipo de macromolécula é o DNA?",
-        options: ["Proteína", "Carboidrato", "Lipídio", "Ácido nucleico"],
-        answer: "Ácido nucleico"
+        question: "O que são defensivos agrícolas biológicos?",
+        options: ["Produtos químicos sintéticos", "Defensivos que utilizam organismos vivos para o controle de pragas", "Fertilizantes químicos", "Pesticidas de alta toxicidade"],
+        answer: "Defensivos que utilizam organismos vivos para o controle de pragas"
     }
 ];
 
